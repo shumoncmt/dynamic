@@ -106,8 +106,8 @@
         </div>
         <div class="row">
           <div class="our-team">
-            <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/Mamum.jpg" alt=""></div>
+          <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/AKM.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -115,8 +115,8 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>A. K. M Ataul Korim</h4></a>
+                <p>Chairman</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
@@ -128,12 +128,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Engr. Mohammad Abdul Karim</h4></a>
+                <p>Managing Director</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/AKM.jpg" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/Mamum.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -141,10 +141,11 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Abdullah-Al-Mamun</h4></a>
+                <p>Director</p>
               </div>
             </div>
+
             <div class="col-sm-6 col-md-3 team">
               <div class="team-images row m0"><img src="images/team/Nazmul.jpg" alt=""></div>
               <ul class="nav social-icons">
@@ -154,8 +155,8 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Nazmul Hossen</h4></a>
+                <p>Asst. General Manager - Accounts & Finance</p>
               </div>
             </div>
           </div>
