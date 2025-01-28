@@ -231,7 +231,7 @@ body {
 }
 .accrodion .accrodion-title h4 {
     color: #242424;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 14px;
@@ -583,7 +583,8 @@ body {
     transition: all .3s ease;
 }
 .main-menu-wrapper .free-qoute-button a {
-    font: 700 1.8em/1.2em 'Open Sans Condensed', sans-serif;
+    font: 700 1.8em/1.2em "Open Sans", sans-serif; */
+    /* font: 700 1.8em/1.2em 'Open Sans Condensed', sans-serif; */
     color: #010101;
     text-transform: uppercase;
     padding: 18px 30px 18px 28px;
@@ -632,7 +633,7 @@ body {
     border-right: 1px dashed #3f5262;
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
-    font: 600 1.36em/1em 'Open Sans Condensed', sans-serif;
+    font: 600 1.36em/1em 'Open Sans', sans-serif;
     letter-spacing: 0.4px;
 }
 .nav-holder .nav-footer ul.nav > li > ul.submenu {
@@ -2147,7 +2148,7 @@ img {
     position: relative;
     z-index: 0;
     overflow: hidden;
-    height: 297px;
+    height: 230px;
 }
 .team .team-images:after {
     content: '';
@@ -6601,7 +6602,7 @@ blockquote footer a {
     width: 50%;
 }
 #minimal-bootstrap-carousel .carousel-inner .item {
-    min-height: 638px;
+    min-height: 642px;
     height: 100%;
     width: 100%;
     background-size: cover;

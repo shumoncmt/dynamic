@@ -17,7 +17,7 @@
     <section class="core-projects sectpad">
       <div class="container clearfix">
         <h1>Our company experts</h1>
-        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
     </section>
     <!-- Team-->
@@ -26,7 +26,7 @@
         <div class="our-team-page">
           <div class="row">
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/1.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/AKM-Ataul-Korim.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -34,12 +34,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>A. K. M Ataul Korim</h4></a>
+                <p>Chairman</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/2.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/MD.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -47,12 +47,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Engr. Mohammad Abdul Karim</h4></a>
+                <p>Managing Director</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/3.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/Mamum.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -60,12 +60,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Abdullah-Al-Mamun</h4></a>
+                <p>Director</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/4.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/Helal-e-azam.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -73,8 +73,8 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Helal-E-Azam</h4></a>
+                <p>General Manager, Commercial</p>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@
         <div class="our-team-page">
           <div class="row">
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/1.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/GM.jpeg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -90,12 +90,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Md. Motiar Rahman</h4></a>
+                <p>General Manager (Technical)</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/2.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/Abdullah_Al.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -103,12 +103,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Md. Abdullah Al Mamun</h4></a>
+                <p>General Manager -Factory Services</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/3.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/Osman.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -116,12 +116,12 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Md. Osman Gani</h4></a>
+                <p>DGM - Accounts & Finance</p>
               </div>
             </div>
             <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/4.png" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/Nazmul.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -129,11 +129,126 @@
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
               </ul>
               <div class="team-content"><a href="#">
-                  <h4>John Martin</h4></a>
-                <p>Machine Engineer</p>
+                  <h4>Nazmul Hossen</h4></a>
+                <p>AGM - Accounts & Finance</p>
               </div>
             </div>
           </div>
+        </div>
+        <div class="our-team-page">
+          <div class="row">
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Ali-Haider-2.jpg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Md. Ali Haider</h4></a>
+                <p>AGM - Sales & Marketing</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Syful-2.jpg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Md. Syful Islam</h4></a>
+                <p>Sr. Manager - DTW & Rig Operation</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/ariful.jpg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Md. Ariful Islam</h4></a>
+                <p>Manager, Sales & Marketing</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Sajjad-2.jpg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Mohammad Sazzad Hossain</h4></a>
+                <p>Manager - HR & Administration</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="our-team-page">
+          <div class="row">
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Imran-Hosen_Audit.jpg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Imran Hoshen</h4></a>
+                <p>Manager - Internal Audit</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Abid.jpeg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Abid Hasan</h4></a>
+                <p>Manager- Local Purchase</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Jewel.jpg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>Jewel Rana</h4></a>
+                <p>Asst. Manager - Sales & Marketing</p>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-3 team">
+              <div class="team-images row m0"><img src="images/team/Rajib.jpeg" alt=""></div>
+              <ul class="nav social-icons">
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a href="#"><i class="fa fa-skype"></i></a></li>
+              </ul>
+              <div class="team-content"><a href="#">
+                  <h4>K.M. Rajib Uddin</h4></a>
+                <p>Sr. Engineer (Tender & Project)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        </div>
         </div>
       </div>
     </section>
@@ -143,7 +258,7 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="indurial-solution-text text-center">
-              <h2>If  You Need Any Industrial Solution ... We Are Available For You</h2><span class="contactus-button2 text-center"><a href="contact.html" class="submit">Contact Us </a></span>
+              <h2>If  You Need Any Industrial Solution ... We Are Available For You</h2><span class="contactus-button2 text-center"><a href={{Route('contact')}} class="submit">Contact Us </a></span>
             </div>
           </div>
         </div>

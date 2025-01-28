@@ -107,7 +107,7 @@
         <div class="row">
           <div class="our-team">
           <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/AKM.jpg" alt=""></div>
+              <div class="team-images row m0"><img src="images/team/AKM-Ataul-Korim.jpg" alt=""></div>
               <ul class="nav social-icons">
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -146,25 +146,12 @@
               </div>
             </div>
 
-            <div class="col-sm-6 col-md-3 team">
-              <div class="team-images row m0"><img src="images/team/Nazmul.jpg" alt=""></div>
-              <ul class="nav social-icons">
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-                <li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
-                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-              </ul>
-              <div class="team-content"><a href="#">
-                  <h4>Nazmul Hossen</h4></a>
-                <p>Asst. General Manager - Accounts & Finance</p>
-              </div>
-            </div>
           </div>
         </div>
       </div>
     </section>
     <!-- testimonial-->
-    <section class="sectpad testimonial-area">
+    <!-- <section class="sectpad testimonial-area">
       <div class="container clearfix">
         <div class="section_header">
           <h2>What our client says</h2>
@@ -220,7 +207,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- Our Clients-->
     <section class="our-client sectpad">
       <div class="container clearfix">
@@ -229,12 +216,27 @@
         </div>
         <div class="client-carousel">
           <div class="client-slider">
-            <div class="item"><img src="images/clients/1.jpg" alt=""></div>
-            <div class="item"><img src="images/clients/2.jpg" alt=""></div>
-            <div class="item"><img src="images/clients/3.jpg" alt=""></div>
-            <div class="item"><img src="images/clients/4.jpg" alt=""></div>
-            <div class="item"><img src="images/clients/5.jpg" alt=""></div>
-            <div class="item"><img src="images/clients/6.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/acmeglobal.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Aga-Khan-Academy.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/akij-insaf.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/al-muslim-Group.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Arbab-Group.png" alt=""></div>
+            <div class="item"><img src="images/clients/Arlafoods.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/beacon-pharmaceuticals.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Bengal-hurricane-group.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Bitopi-group.jpeg" alt=""></div>
+            <div class="item"><img src="images/clients/charuta.png" alt=""></div>
+            <div class="item"><img src="images/clients/concord-logo.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/cp-bangladesh.jpeg" alt=""></div>
+            <div class="item"><img src="images/clients/dhaka-ice.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Diganta01.png" alt=""></div>
+            <div class="item"><img src="images/clients/DR-Group.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Dusai-resort.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/epic.jpeg" alt=""></div>
+            <div class="item"><img src="images/clients/Experience-Group.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/Fashion-Step-Ltd..png" alt=""></div>
+            <div class="item"><img src="images/clients/gildancorp.jpg" alt=""></div>
+            <div class="item"><img src="images/clients/goldsandsgroup.jpg" alt=""></div>
           </div>
         </div>
       </div>

@@ -5,7 +5,7 @@
   <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">
       <!-- Wrapper for slides-->
       <div role="listbox" class="carousel-inner">
-        <div style="background-image: url(images/slider/homepage/5.jpg);" class="item active">
+        <div style="background-image: url(images/slider/homepage/All-Stuff-Image.jpg);" class="item active">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -17,7 +17,7 @@
             </div>
           </div>
         </div>
-        <div style="background-image: url(images/slider/homepage/1.jpg);" class="item">
+        <div style="background-image: url(images/slider/homepage/Group-Photo.jpg);" class="item">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -29,7 +29,7 @@
             </div>
           </div>
         </div>
-        <div style="background-image: url(images/slider/homepage/2.jpg);" class="item">
+        <div style="background-image: url(images/slider/homepage/Photo-Profile-1.jpg);" class="item">
           <div class="carousel-caption">
             <div class="thm-container">
               <div class="box valign-top">
@@ -392,14 +392,14 @@
           </div>
           <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam eius modi.</p>
           <ul>
-            <li><img src="images/clients/7.jpg" alt="" class="img-responsive"></li>
-            <li><img src="images/clients/8.jpg" alt="" class="img-responsive"></li>
-            <li><img src="images/clients/9.jpg" alt="" class="img-responsive"></li>
+            <li><img src="images/clients/Arbab-Group.png" alt="" class="img-responsive"></li>
+            <li><img src="images/clients/beacon-pharmaceuticals.jpg" alt="" class="img-responsive"></li>
+            <li><img src="images/clients/epic.jpeg" alt="" class="img-responsive"></li>
           </ul>
           <ul>
-            <li><img src="images/clients/10.jpg" alt="" class="img-responsive"></li>
-            <li><img src="images/clients/11.jpg" alt="" class="img-responsive"></li>
-            <li><img src="images/clients/12.jpg" alt="" class="img-responsive"></li>
+            <li><img src="images/clients/goldsandsgroup.jpg" alt="" class="img-responsive"></li>
+            <li><img src="images/clients/gildancorp.jpg" alt="" class="img-responsive"></li>
+            <li><img src="images/clients/Aga-Khan-Academy.jpg" alt="" class="img-responsive"></li>
           </ul>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
