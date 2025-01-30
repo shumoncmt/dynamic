@@ -56,6 +56,27 @@ Route::get('/projects', [SiteController::class, 'projects'])->name('projects');
 
 //Project Route End
 
+//Product Category Start
+
+Route::get('/category/blower', [SiteController::class, 'blower'])->name('blower');
+Route::get('/category/diffuser', [SiteController::class, 'diffuser'])->name('diffuser');
+Route::get('/category/electric-motor', [SiteController::class, 'electricmotor'])->name('electricmotor');
+Route::get('/category/electromagenetic-flow-meter', [SiteController::class, 'electromageneticflowmeter'])->name('electromageneticflowmeter');
+Route::get('/category/frp-vessel', [SiteController::class, 'frpvessel'])->name('frpvessel');
+Route::get('/category/ro-and-uf-membrane', [SiteController::class, 'roandufmembrane'])->name('roandufmembrane');
+Route::get('/category/water-treatment-accessories', [SiteController::class, 'watertreatmentaccessories'])->name('watertreatmentaccessories');
+Route::get('/category/water-treatment-accessories', [SiteController::class, 'watertreatmentaccessories'])->name('watertreatmentaccessories');
+Route::get('/category/water-treatment-chemicals-and-media', [SiteController::class, 'watertreatmentchemicalsandmedia'])->name('watertreatmentchemicalsandmedia');
+
+
+
+
+
+
+
+
+//Product Category End
+
 
 //Industrial Sulotion Start
 

@@ -75,6 +75,42 @@ class SiteController extends Controller
 
     //Product End
 
+//Product Caregory Start
+
+function blower(){
+    return view ('category/blower');
+}
+function diffuser(){
+    return view ('category/diffuser');
+}
+function electricmotor(){
+    return view ('category/electricmotor');
+}
+function electromageneticflowmeter(){
+    return view ('category/electromageneticflowmeter');
+}
+function frpvessel(){
+    return view ('category/frpvessel');
+}
+function roandufmembrane(){
+    return view ('category/roandufmembrane');
+}
+function watertreatmentaccessories(){
+    return view ('category/watertreatmentaccessories');
+}
+function watertreatmentchemicalsandmedia(){
+    return view ('category/watertreatmentchemicalsandmedia');
+}
+
+
+
+
+
+//Product Category End
+
+
+
+
 
     //Industrial Sulotion  Start
 
