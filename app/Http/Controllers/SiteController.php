@@ -107,6 +107,10 @@ function productcategory(){
     return view ('product-category');
 }
 
+function allproduct(){
+    return view ('product-category/all-product');
+}
+
 
 
 

@@ -107,7 +107,7 @@
                           <li><a href={{Route('faq')}}>Faq</a></li>
                         </ul>
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('product')}}>Product</a>
+                      <li class="has-t-submenu"><a href={{Route('allproduct')}}>Product</a>
                         <ul class="submenu">
                           <li><a href={{Route('productdetails')}}>Product Details</a></li>
                           <li><a href={{Route('cart')}}>Cart Page</a></li>

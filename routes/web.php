@@ -58,23 +58,20 @@ Route::get('/projects', [SiteController::class, 'projects'])->name('projects');
 
 //Product Category Start
 
+
+Route::get('/all-product', [SiteController::class, 'allproduct'])->name('allproduct');
+
 Route::get('/product-category', [SiteController::class, 'productcategory'])->name('productcategory');
 Route::get('/product-category/category', [SiteController::class, 'category'])->name('category');
 Route::get('/blower', [SiteController::class, 'blower'])->name('blower');
 Route::get('/diffuser', [SiteController::class, 'diffuser'])->name('diffuser');
 Route::get('/electric-motor', [SiteController::class, 'electricmotor'])->name('electricmotor');
 Route::get('/category/electromagenetic-flow-meter', [SiteController::class, 'electromageneticflowmeter'])->name('electromageneticflowmeter');
-Route::get('/category/frp-vessel', [SiteController::class, 'frpvessel'])->name('frpvessel');
+Route::get('/frp-vessel', [SiteController::class, 'frpvessel'])->name('frpvessel');
 Route::get('/category/ro-and-uf-membrane', [SiteController::class, 'roandufmembrane'])->name('roandufmembrane');
 Route::get('/category/water-treatment-accessories', [SiteController::class, 'watertreatmentaccessories'])->name('watertreatmentaccessories');
 Route::get('/category/water-treatment-accessories', [SiteController::class, 'watertreatmentaccessories'])->name('watertreatmentaccessories');
 Route::get('/category/water-treatment-chemicals-and-media', [SiteController::class, 'watertreatmentchemicalsandmedia'])->name('watertreatmentchemicalsandmedia');
-
-
-
-
-
-
 
 
 //Product Category End
