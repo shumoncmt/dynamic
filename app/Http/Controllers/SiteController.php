@@ -68,6 +68,7 @@ class SiteController extends Controller
     function checkout(){
         return view('product/checkout');
     }
+    
 
 
 
@@ -78,29 +79,35 @@ class SiteController extends Controller
 //Product Caregory Start
 
 function blower(){
-    return view ('category/blower');
+    return view ('product-category/blower');
 }
 function diffuser(){
-    return view ('category/diffuser');
+    return view ('product-category/diffuser');
 }
 function electricmotor(){
-    return view ('category/electricmotor');
+    return view ('product-category/electricmotor');
 }
 function electromageneticflowmeter(){
-    return view ('category/electromageneticflowmeter');
+    return view ('product-category/electromageneticflowmeter');
 }
 function frpvessel(){
-    return view ('category/frpvessel');
+    return view ('product-category/frpvessel');
 }
 function roandufmembrane(){
-    return view ('category/roandufmembrane');
+    return view ('product-category/roandufmembrane');
 }
 function watertreatmentaccessories(){
-    return view ('category/watertreatmentaccessories');
+    return view ('product-category/watertreatmentaccessories');
 }
 function watertreatmentchemicalsandmedia(){
-    return view ('category/watertreatmentchemicalsandmedia');
+    return view ('product-category/watertreatmentchemicalsandmedia');
 }
+
+function productcategory(){
+    return view ('product-category');
+}
+
+
 
 
 

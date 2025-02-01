@@ -58,9 +58,11 @@ Route::get('/projects', [SiteController::class, 'projects'])->name('projects');
 
 //Product Category Start
 
-Route::get('/category/blower', [SiteController::class, 'blower'])->name('blower');
-Route::get('/category/diffuser', [SiteController::class, 'diffuser'])->name('diffuser');
-Route::get('/category/electric-motor', [SiteController::class, 'electricmotor'])->name('electricmotor');
+Route::get('/product-category', [SiteController::class, 'productcategory'])->name('productcategory');
+Route::get('/product-category/category', [SiteController::class, 'category'])->name('category');
+Route::get('/blower', [SiteController::class, 'blower'])->name('blower');
+Route::get('/diffuser', [SiteController::class, 'diffuser'])->name('diffuser');
+Route::get('/electric-motor', [SiteController::class, 'electricmotor'])->name('electricmotor');
 Route::get('/category/electromagenetic-flow-meter', [SiteController::class, 'electromageneticflowmeter'])->name('electromageneticflowmeter');
 Route::get('/category/frp-vessel', [SiteController::class, 'frpvessel'])->name('frpvessel');
 Route::get('/category/ro-and-uf-membrane', [SiteController::class, 'roandufmembrane'])->name('roandufmembrane');

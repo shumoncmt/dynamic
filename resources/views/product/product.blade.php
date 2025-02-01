@@ -1,6 +1,7 @@
 @include ('master/header')
 
 
+
 <section class="inner-banner2 clearfix">
       <div class="container clearfix">
         <h2>Shop Page</h2>
