@@ -118,57 +118,57 @@
                           <li><a href={{Route('home5')}}>Home Five</a></li>
                         </ul> -->
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('about')}}>about us</a>
+                      <li class="has-t-submenu"><a href={{Route('about')}} target="_blank">about us</a>
                         <ul class="submenu">
-                          <li><a href={{Route('team')}}>Our Team</a></li>
-                          <li><a href={{Route('testimonials')}}>Testimonials</a></li>
-                          <li><a href={{Route('faq')}}>Faq</a></li>
+                          <li><a href={{Route('team')}} target="_blank" >Our Team</a></li>
+                          <li><a href={{Route('testimonials')}} target="_blank">Testimonials</a></li>
+                          <li><a href={{Route('faq')}} target="_blank">Faq</a></li>
                         </ul>
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('allcategory')}} target="blank">Product</a>
+                      <li class="has-t-submenu"><a href={{Route('allcategory')}} target="_blank">Product</a>
                         <ul class="submenu">
-                          <li><a href={{Route('electricmotor')}}>Dynamic Motor</a></li>
-                          <li><a href={{Route('roandufmembrane')}}>Dynamic RO</a></li>
-                          <li><a href={{Route('industrialpump')}}>Dynamic Pump</a></li>
-                          <li><a href={{Route('blower')}}>Dynamic Blower</a></li>
-                          <li><a href={{Route('frpvessel')}}>Dynamic Vessel</a></li>
-                          <li><a href={{Route('electromageneticflowmeter')}}>Dynamic Flow Meter</a></li>
-                          <li><a href={{Route('roandufmembrane')}}>Dynamic Ro Antiscalant</a></li>
-                          <li><a href={{Route('watertreatmentchemicalsandmedia')}}>Water Treatment Chemical and Media</a></li>
-                          <li><a href={{Route('watertreatmentaccessories')}}>Water Treatment Plants Accessories</a></li>
-                          <li><a href={{Route('allcategory')}}>Other Product</a></li>
+                          <li><a href={{Route('electricmotor')}} target="_blank">Dynamic Motor</a></li>
+                          <li><a href={{Route('roandufmembrane')}} target="_blank">Dynamic RO</a></li>
+                          <li><a href={{Route('industrialpump')}} target="_blank">Dynamic Pump</a></li>
+                          <li><a href={{Route('blower')}} target="_blank">Dynamic Blower</a></li>
+                          <li><a href={{Route('frpvessel')}} target="_blank">Dynamic Vessel</a></li>
+                          <li><a href={{Route('electromageneticflowmeter')}} target="blank" >Dynamic Flow Meter</a></li>
+                          <li><a href={{Route('roandufmembrane')}} target="_blank">Dynamic Ro Antiscalant</a></li>
+                          <li><a href={{Route('watertreatmentchemicalsandmedia')}} target="_blank">Water Treatment Chemical and Media</a></li>
+                          <li><a href={{Route('watertreatmentaccessories')}} target="_blank">Water Treatment Plants Accessories</a></li>
+                          <li><a href={{Route('allcategory')}} target="_blank">Other Product</a></li>
                           
 
                         </ul>
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('projects')}}>Projects</a>
+                      <li class="has-t-submenu"><a href={{Route('projects')}} target="_blank">Projects</a>
                         <ul class="submenu">
-                          <li><a href={{Route('classic')}}>classic</a></li>
-                          <li><a href={{Route('fullscreen')}}>fullscreen</a></li>
-                          <li><a href={{Route('lightbox')}}>lightbox</a></li>
-                          <li><a href={{Route('projects')}}>Projects Details</a></li>
+                          <li><a href={{Route('classic')}} target="_blank">classic</a></li>
+                          <li><a href={{Route('fullscreen')}} target="_blank">fullscreen</a></li>
+                          <li><a href={{Route('lightbox')}} target="_blank">lightbox</a></li>
+                          <li><a href={{Route('projects')}} target="_blank" >Projects Details</a></li>
                         </ul>
 
-                      <li class="has-t-submenu"><a href={{Route('solutions')}}>Industrial Solutions</a>
+                      <li class="has-t-submenu"><a href={{Route('solutions')}} target="_blank">Industrial Solutions</a>
                         <ul class="submenu">
-                          <li><a href={{Route('meterial')}}>meterial engineering</a></li>
-                          <li><a href={{Route('agricultural')}}>agricultural processing</a></li>
-                          <li><a href={{Route('mechanical')}}>Mechanical engineering</a></li>
-                          <li><a href={{Route('chemical')}}>chemical research</a></li>
-                          <li><a href={{Route('power')}}>power and energy</a></li>
-                          <li><a href={{Route('oil')}}>Oil and lubricant</a></li>
-                          <li><a href={{Route('alternate')}}>alternate energy</a></li>
+                          <li><a href={{Route('meterial')}} target="_blank">meterial engineering</a></li>
+                          <li><a href={{Route('agricultural')}} target="_blank">agricultural processing</a></li>
+                          <li><a href={{Route('mechanical')}} target="_blank" >Mechanical engineering</a></li>
+                          <li><a href={{Route('chemical')}} target="_blank">chemical research</a></li>
+                          <li><a href={{Route('power')}} target="_blank" >power and energy</a></li>
+                          <li><a href={{Route('oil')}} target="_blank">Oil and lubricant</a></li>
+                          <li><a href={{Route('alternate')}} target="_blank">alternate energy</a></li>
                         </ul>
                       </li>
                       
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('resources')}}>Resources</a>
+                      <li class="has-t-submenu"><a href={{Route('resources')}} target="_blank">Resources</a>
                         <ul class="submenu">
-                          <li><a href={{Route('resourcesdetails')}}>Resources Details</a></li>
+                          <li><a href={{Route('resourcesdetails')}} target="_blank">Resources Details</a></li>
                         </ul>
                       </li>
                       
-                      <li><a href={{Route('contact')}}>contact us</a></li>
+                      <li><a href={{Route('contact')}} target="_blank">contact us</a></li>
                     </ul>
                     <div class="mobile-link"><a href="request-qoute.html" class="submit">requet a quote</a>
                       <div class="widget-t widget-t-search">
