@@ -10,45 +10,45 @@ class SiteController extends Controller
     //Page start
 
     function about(){
-        return view ('site/about');
+        return view ('site.about');
         
     }
     function aboutus(){
-        return view('site/aboutus');
+        return view('site.aboutus');
     }
     function contact(){
-        return view('site/contact');
+        return view('site.contact');
     }
     function faq(){
-        return view('site/faq');
+        return view('site.faq');
     }
     function home(){
-        return view('site/home');
+        return view('site.home');
     }
     function home2(){
-        return view('site/home2');
+        return view('site.home2');
     }
     function home3(){
-        return view('site/home3');
+        return view('site.home3');
     }
     function home4(){
-        return view('site/home4');
+        return view('site.home4');
     }
     function home5(){
-        return view('site/home5');
+        return view('site.home5');
     }
     function home6(){
-        return view('site/home6');
+        return view('site.home6');
     }
     function team(){
-        return view('site/team');
+        return view('site.team');
     }
     function testimonials(){
-        return view('site/testimonials');
+        return view('site.testimonials');
     }
 
     function request(){
-        return view('site/request');
+        return view('site.request');
     }
 
 
@@ -57,16 +57,16 @@ class SiteController extends Controller
 
     //Product Start 
     function product(){
-        return view('product/product');
+        return view('product.product');
     }
     function productdetails(){
-        return view('product/productdetails');
+        return view('product.productdetails');
     }
     function cart(){
-        return view('product/cart');
+        return view('product.cart');
     }
     function checkout(){
-        return view('product/checkout');
+        return view('product.checkout');
     }
     
 
@@ -79,28 +79,28 @@ class SiteController extends Controller
 //Product Caregory Start
 
 function blower(){
-    return view ('product-category/blower');
+    return view ('product-category.blower');
 }
 function diffuser(){
-    return view ('product-category/diffuser');
+    return view ('product-category.diffuser');
 }
 function electricmotor(){
-    return view ('product-category/electricmotor');
+    return view ('product-category.electricmotor');
 }
 function electromageneticflowmeter(){
-    return view ('product-category/electromageneticflowmeter');
+    return view ('product-category.electromageneticflowmeter');
 }
 function frpvessel(){
-    return view ('product-category/frpvessel');
+    return view ('product-category.frpvessel');
 }
 function roandufmembrane(){
-    return view ('product-category/roandufmembrane');
+    return view ('product-category.roandufmembrane');
 }
 function watertreatmentaccessories(){
-    return view ('product-category/watertreatmentaccessories');
+    return view ('product-category.watertreatmentaccessories');
 }
 function watertreatmentchemicalsandmedia(){
-    return view ('product-category/watertreatmentchemicalsandmedia');
+    return view ('product-category.watertreatmentchemicalsandmedia');
 }
 
 function productcategory(){
@@ -108,7 +108,11 @@ function productcategory(){
 }
 
 function allproduct(){
-    return view ('product-category/all-product');
+    return view ('product-category.all-product');
+}
+
+function allcategory(){
+    return view('product-category.all-category');
 }
 
 

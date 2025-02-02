@@ -1,4 +1,4 @@
-@include ('master/header')
+@include ('master.header')
 
 
 
@@ -122,4 +122,4 @@
 
 
 
-@include ('master/footer')
+@include ('master.footer')

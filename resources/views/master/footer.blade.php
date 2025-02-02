@@ -14,12 +14,12 @@
             <h4 class="widget_title">Our Solutions</h4>
             <div class="widget-contact-list row m0">
               <ul>
-                <li><a href="#">- Metal Industry</a></li>
-                <li><a href="#">- Agricultural Engineering</a></li>
-                <li><a href="#">- Alternative Energy</a></li>
-                <li><a href="#">- chemical research</a></li>
-                <li><a href="#">- power and energy</a></li>
-                <li><a href="#">- Oil and lubricant</a></li>
+                <li><a href="#">- ETP Plant</a></li>
+                <li><a href="#">- STP Plant</a></li>
+                <li><a href="#">- WTP Plant</a></li>
+                <li><a href="#">- Iron Removal Plant</a></li>
+                <li><a href="#">- RO Water Plant</a></li>
+                <li><a href="#">- Water Softener Plant</a></li>
               </ul>
             </div>
           </div>

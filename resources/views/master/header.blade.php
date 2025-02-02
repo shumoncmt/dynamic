@@ -8,19 +8,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Dynamic Industrial Product</title>
     <!-- Bootstrap-->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+
+
+    <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
     <!-- animate css-->
-    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
+
+
+    <!-- <link rel="stylesheet" href="css/animate.min.css"> -->
     <!-- owl-carousel-->
-    <link rel="stylesheet" href="vendors/owlcarousel/owl.carousel.css">
+    <link rel="stylesheet" href="{{ asset('vendors/owlcarousel/owl.carousel.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendors/revolution/css/settings.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendors/revolution/css/layers.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendors/revolution/css/navigation.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendors/jquery-ui-1.11.4/jquery-ui.min.css') }}">
+
+    <!-- <link rel="stylesheet" href="vendors/owlcarousel/owl.carousel.css">
     <link rel="stylesheet" href="vendors/revolution/css/settings.css">
     <link rel="stylesheet" href="vendors/revolution/css/layers.css">
     <link rel="stylesheet" href="vendors/revolution/css/navigation.css">
-    <link rel="stylesheet" href="vendors/jquery-ui-1.11.4/jquery-ui.min.css">
+    <link rel="stylesheet" href="vendors/jquery-ui-1.11.4/jquery-ui.min.css"> -->
+
     <!-- Main Css-->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon.png">
+ <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+ <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
+
+    <!-- <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css"> -->
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon/favicon.png')}}" >
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries-->
     <!-- WARNING: Respond.js doesn't work if you view the page via file://-->
     <!--if lt IE 9
@@ -47,7 +63,9 @@
       <!-- Logo Section-->
       <div class="container">
         <div class="row pad-logo logo-wrapper">
-          <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href={{Route('home')}}><img src="images/header/logo-2.png" alt="logo" class="img-responsive"></a></div>
+          <!-- <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href={{Route('home')}}><img src="images/header/logo-2.png" alt="logo" class="img-responsive"></a></div> -->
+          <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href={{Route('home')}}><img src="{{ asset('images/header/logo-2.png') }}" alt="logo" class="img-responsive"></a></div>
+
           <div class="col-lg-8 col-md-9 col-sm-12 col-xs-12 text-right">
             <div class="top-two-right">
               <div class="req-button text-right"><a href="request-qoute.html" class="submit">requet a quote</a></div>
@@ -107,11 +125,19 @@
                           <li><a href={{Route('faq')}}>Faq</a></li>
                         </ul>
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('allproduct')}}>Product</a>
+                      <li class="has-t-submenu"><a href={{Route('allcategory')}} target="blank">Product</a>
                         <ul class="submenu">
-                          <li><a href={{Route('productdetails')}}>Product Details</a></li>
-                          <li><a href={{Route('cart')}}>Cart Page</a></li>
-                          <li><a href={{Route('checkout')}}>Checkout Page</a></li>
+                          <li><a href={{Route('productdetails')}}>Dynamic Motor</a></li>
+                          <li><a href={{Route('checkout')}}>Dynamic RO</a></li>
+                          <li><a href={{Route('cart')}}>Dynamic Pump</a></li>
+                          <li><a href={{Route('checkout')}}>Dynamic Blower</a></li>
+                          <li><a href={{Route('checkout')}}>Other Product</a></li>
+                          <li><a href={{Route('checkout')}}>Dynamic Flow Meter</a></li>
+                          <li><a href={{Route('checkout')}}>Dynamic Ro Antiscalant</a></li>
+                          <li><a href={{Route('checkout')}}>Filter Media and Accessories</a></li>
+                          <li><a href={{Route('checkout')}}>Water Treatment Plants Accessories</a></li>
+                          
+
                         </ul>
                       </li>
                       <li class="has-t-submenu"><a href={{Route('projects')}}>Projects</a>

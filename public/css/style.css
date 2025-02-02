@@ -974,7 +974,7 @@ body {
     background: #f6f6f6;
 }
 .sectpad {
-    padding: 5.7em 0;
+    padding: 2.7em 0;
 }
 .sectpad-ser {
     padding: 5.7em 0 3em;
@@ -1863,13 +1863,13 @@ img {
     margin-left: 7px;
 }
 .inner-banner2 {
-    padding-top: 75px;
-    padding-bottom: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     background: #13314c url(../images/about/banner-bg.jpg) center center no-repeat;
     background-size: cover;
 }
 .inner-banner2 h2 {
-    font: 600 4.3em/1em "Alegreya", serif;
+    font: 400 4.3em/1em "Alegreya", serif;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -3030,7 +3030,7 @@ img {
     position: relative;
     margin: 0;
 }
-.core-projects h1 {
+.core-projects h2 {
     font: bold 1.9em/1.2em "Alegreya", serif;
     color: #000;
     text-transform: uppercase;
@@ -3039,7 +3039,7 @@ img {
     letter-spacing: 0.3px;
     margin: 0 0 1em;
 }
-.core-projects h1:before {
+.core-projects h2:before {
     content: "";
     width: 55px;
     height: 3px;
@@ -3147,7 +3147,7 @@ img {
     letter-spacing: 0.3px;
     color: #fff;
     margin: 0;
-    background: #fac012;
+    background: #38567C;
     border-radius: 3px;
     line-height: 38px;
     padding: 0 20px;
@@ -3155,6 +3155,20 @@ img {
     display: inline-block;
     text-transform: uppercase;
 }
+.project-post-info .info-text h4 {
+    font: 700 14px "Open Sans", sans-serif;
+    letter-spacing: 0.3px;
+    color: #fff;
+    margin: 0;
+    background: #38567C;
+    border-radius: 3px;
+    line-height: 38px;
+    padding: 0 20px;
+    height: 38px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
 .loadmore
 {
     margin: 50px 0;
@@ -5060,6 +5074,7 @@ blockquote footer a {
     display: block;
     padding: 0;
     background: #fff;
+    border-bottom: #0094b3;
 }
 .nav-t-holder .nav-t-footer ul.nav > li ul.submenu li:last-child a {
     border-bottom: 0;

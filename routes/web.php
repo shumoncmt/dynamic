@@ -57,9 +57,10 @@ Route::get('/projects', [SiteController::class, 'projects'])->name('projects');
 //Project Route End
 
 //Product Category Start
+Route::get('/all-categories', [SiteController::class, 'allcategory'])->name('allcategory');
 
 
-Route::get('/all-product', [SiteController::class, 'allproduct'])->name('allproduct');
+Route::get('/all/all-product', [SiteController::class, 'allproduct'])->name('allproduct');
 
 Route::get('/product-category', [SiteController::class, 'productcategory'])->name('productcategory');
 Route::get('/product-category/category', [SiteController::class, 'category'])->name('category');
