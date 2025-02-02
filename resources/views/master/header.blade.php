@@ -127,15 +127,16 @@
                       </li>
                       <li class="has-t-submenu"><a href={{Route('allcategory')}} target="blank">Product</a>
                         <ul class="submenu">
-                          <li><a href={{Route('productdetails')}}>Dynamic Motor</a></li>
-                          <li><a href={{Route('checkout')}}>Dynamic RO</a></li>
-                          <li><a href={{Route('cart')}}>Dynamic Pump</a></li>
-                          <li><a href={{Route('checkout')}}>Dynamic Blower</a></li>
-                          <li><a href={{Route('checkout')}}>Other Product</a></li>
-                          <li><a href={{Route('checkout')}}>Dynamic Flow Meter</a></li>
-                          <li><a href={{Route('checkout')}}>Dynamic Ro Antiscalant</a></li>
-                          <li><a href={{Route('checkout')}}>Filter Media and Accessories</a></li>
-                          <li><a href={{Route('checkout')}}>Water Treatment Plants Accessories</a></li>
+                          <li><a href={{Route('electricmotor')}}>Dynamic Motor</a></li>
+                          <li><a href={{Route('roandufmembrane')}}>Dynamic RO</a></li>
+                          <li><a href={{Route('industrialpump')}}>Dynamic Pump</a></li>
+                          <li><a href={{Route('blower')}}>Dynamic Blower</a></li>
+                          <li><a href={{Route('frpvessel')}}>Dynamic Vessel</a></li>
+                          <li><a href={{Route('electromageneticflowmeter')}}>Dynamic Flow Meter</a></li>
+                          <li><a href={{Route('roandufmembrane')}}>Dynamic Ro Antiscalant</a></li>
+                          <li><a href={{Route('watertreatmentchemicalsandmedia')}}>Water Treatment Chemical and Media</a></li>
+                          <li><a href={{Route('watertreatmentaccessories')}}>Water Treatment Plants Accessories</a></li>
+                          <li><a href={{Route('allcategory')}}>Other Product</a></li>
                           
 
                         </ul>

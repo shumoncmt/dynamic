@@ -103,16 +103,15 @@ function watertreatmentchemicalsandmedia(){
     return view ('product-category.watertreatmentchemicalsandmedia');
 }
 
-function productcategory(){
-    return view ('product-category');
-}
-
 function allproduct(){
     return view ('product-category.all-product');
 }
 
 function allcategory(){
     return view('product-category.all-category');
+}
+function industrialpump(){
+    return view('product-category.industrialpump');
 }
 
 
@@ -130,40 +129,40 @@ function allcategory(){
     //Industrial Sulotion  Start
 
     function agricultural(){
-        return view ('solution/agricultural');
+        return view ('solution.agricultural');
     }
 
     function alternate(){
-        return view('solution/alternate');
+        return view('solution.alternate');
     }
     function blogdetails(){
-        return view('solution/blogdetails');
+        return view('solution.blogdetails');
     }
 
     function chemical(){
-        return view('solution/chemical');
+        return view('solution.chemical');
     }
 
     function mechanical(){
-        return view('solution/mechanical');
+        return view('solution.mechanical');
     }
     function meterial(){
-        return view('solution/meterial');
+        return view('solution.meterial');
     }
     function oil(){
-        return view('solution/oil');
+        return view('solution.oil');
     }
     function power(){
-        return view('solution/power');
+        return view('solution.power');
     }
     function solutions(){
-        return view('solution/solutions');
+        return view('solution.solutions');
     }
     function resourcesdetails(){
-        return view('solution/resourcesdetails');
+        return view('solution.resourcesdetails');
     }
     function resources(){
-        return view('solution/resources');
+        return view('solution.resources');
     }
 
     //Industrial Sulotion  End
