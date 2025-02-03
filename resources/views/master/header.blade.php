@@ -11,9 +11,18 @@
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
 
 
+
     <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
     <!-- animate css-->
     <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/customstyle.css') }}">
+
+
+
+
+    <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/customstyle.css"> -->
 
 
     <!-- <link rel="stylesheet" href="css/animate.min.css"> -->
@@ -24,6 +33,8 @@
     <link rel="stylesheet" href="{{ asset('vendors/revolution/css/navigation.css') }}">
     <link rel="stylesheet" href="{{ asset('vendors/jquery-ui-1.11.4/jquery-ui.min.css') }}">
 
+
+    
     <!-- <link rel="stylesheet" href="vendors/owlcarousel/owl.carousel.css">
     <link rel="stylesheet" href="vendors/revolution/css/settings.css">
     <link rel="stylesheet" href="vendors/revolution/css/layers.css">

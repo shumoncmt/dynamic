@@ -2,7 +2,7 @@
       <div class="container clearfix">
         <div class="row">
           <div class="widget about-us-widget col-md-3 col-sm-6"><a href="#"><img src="images/header/f-logo2.png" alt=""></a>
-            <p>Lorem ipsum dolor sit amet, consectet ur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali qua. Ut enim ad minim.</p><a href={{Route('about')}}>Read More <i class="fa fa-angle-double-right"></i></a>
+            <p>At Green Genesis Engineering Limited, our vision is to be the leading force in sustainable water management solutions in Bangladesh and beyond.</p><a href={{Route('about')}}>Read More <i class="fa fa-angle-double-right"></i></a>
             <ul class="nav">
              <li><a href="https://www.facebook.com/greengenesisbd/"><i class="fa fa-facebook-square"></i></a></li>
               <li><a href="https://twitter.com/GreenGenesisEn3"><i class="fa fa-twitter"></i></a></li>
