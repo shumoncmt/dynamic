@@ -14,12 +14,13 @@
             <h4 class="widget_title">Our Solutions</h4>
             <div class="widget-contact-list row m0">
               <ul>
-                <li><a href="#">- ETP Plant</a></li>
-                <li><a href="#">- STP Plant</a></li>
-                <li><a href="#">- WTP Plant</a></li>
-                <li><a href="#">- Iron Removal Plant</a></li>
-                <li><a href="#">- RO Water Plant</a></li>
-                <li><a href="#">- Water Softener Plant</a></li>
+                <li><a href="#">ETP Plant</a></li>
+                <li><a href="#">STP Plant</a></li>
+                <li><a href="#">WTP Plant</a></li>
+                <li><a href="#">Iron Removal Plant</a></li>
+                <li><a href="#">RO Water Plant</a></li>
+                <li><a href="#">Water Softener Plant</a></li>
+                <li><a href="#">Rainwater Harvesting</a></li>
               </ul>
             </div>
           </div>
@@ -27,11 +28,11 @@
             <h4 class="widget_title">Quick Links</h4>
             <div class="widget-contact-list row m0">
               <ul>
-                <li><a href={{Route('about')}}>- About Us</a></li>
-                <li><a href="#">- Career</a></li>
-                <li><a href="#">- Get Quote</a></li>
-                <li><a href="news.html">- News</a></li>
-                <li><a href={{Route('faq')}}>- Faq</a></li>
+                <li><a href={{Route('about')}}>About Us</a></li>
+                <li><a href="#">Career</a></li>
+                <li><a href="#">Get Quote</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href={{Route('faq')}}>Faq</a></li>
               </ul>
             </div>
           </div>
@@ -63,7 +64,7 @@
           <p>Copyright © Industiral 2025. All rights reserved.</p>
         </div>
         <div class="pull-right fo-txt">
-          <p>Developed by:<a target="_blank" href="https://www.greengenesisbd.com">Green Genesis Engineering Limited.</a></p>
+          <p>Developed by:<a target="_blank" href="https://www.greengenesisbd.com"> Green Genesis Engineering Limited.</a></p>
         </div>
       </div>
     </section>
@@ -87,4 +88,7 @@
     <script src="js/theme.js"></script>
   </body>
 
+
+
 </html>
+

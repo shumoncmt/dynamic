@@ -47,7 +47,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,800,700,900);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
 @import url(https://fonts.googleapis.com/css?family=Alegreya:400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Poppins);
@@ -1704,11 +1704,11 @@ img {
 .get-in-touch h4,
 .widget-links h4 {
     font: 600 20px "Open Sans", sans-serif;
-    color: #fff;
+    color: #323232;
     margin-top: 0px;
     text-transform: uppercase;
     margin-bottom: 24px;
-    font-style: italic;
+    /* font-style: italic; */
 }
 .widget-contact h4:after,
 .get-in-touch h4:after,
@@ -1726,7 +1726,7 @@ img {
     list-style: none;
 }
 .widget-contact-list ul li a {
-    color: #627279;
+    color: #323232;
     text-transform: capitalize;
     line-height: 39px;
 }
@@ -1750,7 +1750,7 @@ img {
     padding: 1.1em 0 0;
 }
 .widget.widget-contact ul li .fleft span {
-    color: #1FB5C7;
+    color: #323232;
 }
 .widget.widget-contact ul li i.fa-map-marker {
     padding-top: 22px;
@@ -1773,14 +1773,14 @@ img {
     padding: 2em 0;
 }
 .footer-bottom .fo-txt p {
-    color: #555759;
+    color: #FFFFFF;
     font: 400 1em/1em "Open Sans", sans-serif;
 }
 .footer-bottom .fo-txt p a {
-    color: #1d8898;
+    color: #FFFFFF;
 }
 .footer-bottom .fo-txt p a:hover {
-    color: #f6ba18;
+    color: #134F45;
 }
 .get-in-touch {
     position: relative;
@@ -1812,7 +1812,7 @@ img {
     background-size: cover;
 }
 .inner-banner h2 {
-    font: 600 2.4em/1em "Alegreya", serif;
+    font: 600 2.4em/1em "Open Sans", serif;
     text-transform: uppercase;
     color: #fff;
 }
@@ -1870,7 +1870,7 @@ img {
     background-size: cover;
 }
 .inner-banner2 h2 {
-    font: 400 4.3em/1em "Alegreya", serif;
+    font: 400 4.3em/1em "Open Sans", serif;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -4946,18 +4946,18 @@ blockquote footer a {
 .req-button a:hover {
     border-radius: 4px;
     color: #fff;
-    border: 1px solid #53cff5;
-    background: #53cff5;
+    border: 1px solid #125143;
+    background: #125143;
 }
 .req-button .submit:before {
     background: #53cff5;
 }
 .req-button .submit:hover {
-    color: #fff;
+    color: #125143;
 }
 .req-button .submit:focus {
     color: #fff;
-    border-color: #53cff5;
+    border-color: #145245;
 }
 .top-two-right {
     position: relative;
@@ -5032,7 +5032,7 @@ blockquote footer a {
     text-transform: uppercase;
     -webkit-transition: all .3s ease;
     transition: all .3s ease;
-    font: 600 1.36em/1em 'Open Sans Condensed', sans-serif;
+    font: 600 1.36em/1em 'Open Sans', sans-serif;
     border-right: 1px dashed #3f5262;
 }
 .nav-t-holder .nav-t-footer ul.nav > li > ul.submenu {
@@ -5229,10 +5229,10 @@ blockquote footer a {
     -moz-box-shadow: 0px 13px 30px -12px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 13px 30px -12px rgba(0, 0, 0, 0.75);
 }
-.widget-t-search {
+/* .widget-t-search {
     float: right;
     padding: 10px 0;
-}
+} */
 .widget-t .search-form .form-control {
     height: 40px;
     border-radius: 0;
@@ -5887,8 +5887,9 @@ blockquote footer a {
 ============================== */
 
 .our-galler-htwo {
-    background: url(../images/our-projects/bg.jpg) no-repeat center top;
-    position: relative;
+    background-color: #145245;
+  /* background: url(../images/our-projects/bg.jpg) no-repeat center top; */ */
+    position:relative;
 }
 .our-galler-three {
     background: #ebebeb no-repeat center top;
@@ -5907,6 +5908,7 @@ blockquote footer a {
 }
 .fullwidth-slider {
     padding: 0 1.5em;
+   
 }
 .fullwidth-slider.owl-theme .owl-controls .owl-nav [class*="owl-"] {
     background: transparent;
@@ -6318,14 +6320,14 @@ blockquote footer a {
 ============================== */
 
 .footer-bg3 {
-    background: url("../images/footer/bg.jpg") no-repeat center center;
+    background: url("../images/footer/footer-bg.jpg") no-repeat center center;
     padding: 59px 0;
     min-height: 408px;
     background-size: cover;
 }
 .footer-bg3 h4.widget_title {
     text-transform: capitalize;
-    font-style: italic;
+    /* font-style: italic; */
 }
 .footer-bg3 .widget-links {
     padding: 0 50px;
@@ -6337,7 +6339,7 @@ blockquote footer a {
     margin: 0;
 }
 .footer-bottom3 .fo-txt p a {
-    color: #454d54;
+    color: #FFFFFF;
 }
 /* ==============================
   42. Testimonial Page

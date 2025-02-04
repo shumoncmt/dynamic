@@ -162,12 +162,12 @@
 
                       <li class="has-t-submenu"><a href={{Route('solutions')}} target="_blank">Industrial Solutions</a>
                         <ul class="submenu">
-                          <li><a href={{Route('meterial')}} target="_blank">meterial engineering</a></li>
-                          <li><a href={{Route('agricultural')}} target="_blank">agricultural processing</a></li>
-                          <li><a href={{Route('mechanical')}} target="_blank" >Mechanical engineering</a></li>
-                          <li><a href={{Route('chemical')}} target="_blank">chemical research</a></li>
-                          <li><a href={{Route('power')}} target="_blank" >power and energy</a></li>
-                          <li><a href={{Route('oil')}} target="_blank">Oil and lubricant</a></li>
+                          <li><a href={{Route('meterial')}} target="_blank">ETP Plant</a></li>
+                          <li><a href={{Route('agricultural')}} target="_blank">STP Plant</a></li>
+                          <li><a href={{Route('mechanical')}} target="_blank" >WTP Plant</a></li>
+                          <li><a href={{Route('chemical')}} target="_blank">Iron Removal Plant</a></li>
+                          <li><a href={{Route('power')}} target="_blank" >RO Water Plant</a></li>
+                          <li><a href={{Route('oil')}} target="_blank">Water Softener Plant</a></li>
                           <li><a href={{Route('alternate')}} target="_blank">alternate energy</a></li>
                         </ul>
                       </li>

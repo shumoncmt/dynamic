@@ -51,31 +51,31 @@
         <div class="row diff-offer">
           <ul>
             <li class="we-offer-cont">
-              <h2>We offer<span>Different Services</span></h2>
+              <h2>OUR TOP<span>PRODUCTS</span></h2>
             </li>
             <li class="we-offer-cont2">
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Consect petur adipiscing elit.</p>
+              <p style="text-align:justify">Dynamic Industrial Product is engineered for versatility and efficiency, designed to meet the rigorous demands of various industrial applications.This product not only optimizes productivity but also contributes to cost-effectiveness, positioning it as a valuable asset in any industrial setting.</p>
             </li>
           </ul>
         </div>
         <div class="row">
           <div class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/ser-img1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
-                <h4>mechanical engineering</h4></a>
+                <h4>Dynamic Motor</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="mechanical.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="agricultural.html" class="post-image view image_hover"><img src="images/services/ser-img2.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
-                <h4>Agricultural Processing</h4></a>
+                <h4>Dynamic RO Membrane</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="agricultural.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="oil.html" class="post-image view image_hover">		<img src="images/services/ser-img3.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
-                <h4>Oils and Lubricants</h4></a>
+                <h4>Dynamic Pump</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="oil.html">Read more</a></h6>
             </div>
@@ -84,21 +84,44 @@
         <div class="row">
           <div class="col-sm-4 service-info">
             <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/ser-img4.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
-                <h4>power and engery</h4></a>
+                <h4>Dynamic Blower</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="power.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="chemical.html" class="post-image view image_hover"><img src="images/services/ser-img5.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="chemical.html">
-                <h4>chemical research</h4></a>
+                <h4>Dynamic Vessel</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="chemical.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
             <div class="item"><a href="meterial.html" class="post-image view image_hover"><img src="images/services/ser-img6.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="meterial.html">
-                <h4>Meterial engineering</h4></a>
+                <h4>Dynamic Flow Meter</h4></a>
+              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <h6><a href="meterial.html">Read more</a></h6>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4 service-info">
+            <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/ser-img4.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
+                <h4>Dynamic Ro Antiscalant</h4></a>
+              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <h6><a href="power.html">Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-sm-4 service-info">
+            <div class="item"><a href="chemical.html" class="post-image view image_hover"><img src="images/services/ser-img5.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="chemical.html">
+                <h4>Water Treatment Chemical & Media</h4></a>
+              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <h6><a href="chemical.html">Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-sm-4 service-info">
+            <div class="item"><a href="meterial.html" class="post-image view image_hover"><img src="images/services/ser-img6.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="meterial.html">
+                <h4>WTP Accessories</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="meterial.html">Read more</a></h6>
             </div>
@@ -108,7 +131,7 @@
     </section>
     <!-- We offer Different Services-->
     <!-- Control in compliance-->
-    <section class="container ind-common-pad2 clearfix">
+    <!-- <section class="container ind-common-pad2 clearfix">
       <div class="quality-wrapper text-center">
         <div class="vision tab-panel fade in">
           <h2>A hight level Quality Control in compliance with National and In International regulations and standards</h2>
@@ -142,7 +165,7 @@
           </ul>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- Control in compliance-->
     <!-- Our Services natural resource-->
     <section class="fluid-service-area-home">
@@ -216,7 +239,7 @@
     </section>
     <!-- Our Services natural resource-->
     <!-- LOOKING AN ADEQUATE-->
-    <section class="looking-wrapper clearfix">
+    <!-- <section class="looking-wrapper clearfix">
       <div class="container">
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
@@ -229,7 +252,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- LOOKING AN ADEQUATE-->
     <!-- Latest News-->
     <section class="latest-news1 sectpad">
@@ -239,8 +262,7 @@
             <div class="section_header2 common">
               <h2>About Us</h2>
             </div>
-            <h4>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</h4>
-            <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p>
+            <p style="text-align:justify">At Green Genesis Engineering Limited, our vision is to be the leading force in sustainable water management solutions in Bangladesh and beyond. We aspire to create a world where clean, safe water is accessible to all, fostering healthier communities and a thriving environment.</p>
             <div class="row">
               <div class="col-md-6">
                 <ul>
@@ -255,7 +277,7 @@
                 </ul>
               </div>
             </div>
-            <div class="req-button about-but text-left"><a href="about.html" class="submit">About Us <i class="fa fa-arrow-right"></i></a></div>
+            <div class="req-button about-but text-left"><a href={{Route('about')}} target="_blank" class="submit">About Us <i class="fa fa-arrow-right"></i></a></div>
           </div>
           <div class="col-lg-6">
             <div class="section-faq">
@@ -264,33 +286,34 @@
               </div>
               <div class="accordian-area accordian-area-pad">
                 <div id="accordion" role="tablist" aria-multiselectable="true" class="panel-group">
-                  <div class="panel panel-default">
-                    <div id="headingOne" role="tab" class="panel-heading">
-                      <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="collapsed"><span>WE offer luxury service to our customer</span><i class="fa fa-minus"></i><i class="fa fa-plus"></i></a></h4>
-                    </div>
-                    <div id="collapseOne" role="tabpanel" aria-labelledby="headingOne" class="panel-collapse collapse">
-                      <div class="panel-body faq-content">
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="panel panel-default">
+                  
+                <div class="panel panel-default">
                     <div id="headingTwo" role="tab" class="panel-heading">
-                      <h4 class="panel-title on"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">WE offer luxury service to our customer<i class="fa fa-minus"></i><i class="fa fa-plus"></i></a></h4>
+                      <h4 class="panel-title on"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">What is an Effluent Treatment Plant (ETP)?<i class="fa fa-minus"></i><i class="fa fa-plus"></i></a></h4>
                     </div>
                     <div id="collapseTwo" role="tabpanel" aria-labelledby="headingTwo" class="panel-collapse collapse in">
                       <div class="panel-body faq-content">
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                        <p>An ETP is a facility designed to treat industrial wastewater, known as effluent, to remove pollutants before discharge into the environment.</p>
+                      </div>
+                    </div>
+                  </div>
+                <div class="panel panel-default">
+                    <div id="headingOne" role="tab" class="panel-heading">
+                      <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" class="collapsed"><span>Why is effluent treatment necessary?</span><i class="fa fa-minus"></i><i class="fa fa-plus"></i></a></h4>
+                    </div>
+                    <div id="collapseOne" role="tabpanel" aria-labelledby="headingOne" class="panel-collapse collapse">
+                      <div class="panel-body faq-content">
+                        <p>Effluent treatment is essential to prevent pollution and protect ecosystems by removing harmful substances from industrial wastewater.</p>
                       </div>
                     </div>
                   </div>
                   <div class="panel panel-default">
                     <div id="headingThree" role="tab" class="panel-heading">
-                      <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree" class="collapsed">WE offer luxury service to our customer<i class="fa fa-minus"></i><i class="fa fa-plus"></i></a></h4>
+                      <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree" class="collapsed">What are the main components of an ETP?<i class="fa fa-minus"></i><i class="fa fa-plus"></i></a></h4>
                     </div>
                     <div id="collapseThree" role="tabpanel" aria-labelledby="headingThree" class="panel-collapse collapse">
                       <div class="panel-body faq-content">
-                        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+                        <p>Primary treatment involves physical separation, secondary treatment uses biological processes, and tertiary treatment further refines water quality.</p>
                       </div>
                     </div>
                   </div>
@@ -311,24 +334,24 @@
       <div class="fullwidth-silder">
         <div class="fullwidth-slider">
           <div class="item">
-            <div class="img-holder"><a href="images/our-projects/1.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
-                <div class="project-post-image image_hover"><img src="images/our-projects/1.jpg" alt="Oil Plant Project" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
+            <div class="img-holder"><a href="images/our-projects/Aristo-tower-STP-Civil-Word.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
+                <div class="project-post-image image_hover"><img src="images/our-projects/Aristo-tower-STP-Civil-Word.jpg" alt="Aristo tower STP Civil Word" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
           </div>
           <div class="item">
-            <div class="img-holder"><a href="images/our-projects/2.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
-                <div class="project-post-image image_hover"><img src="images/our-projects/2.jpg" alt="Oil Plant Project" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
+            <div class="img-holder"><a href="images/our-projects/Columbia-garments-ltd-deep-tube.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
+                <div class="project-post-image image_hover"><img src="images/our-projects/Columbia-garments-ltd-deep-tube.jpg" alt="Columbia garments ltd deep tube" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
           </div>
           <div class="item">
-            <div class="img-holder"><a href="images/our-projects/3.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
-                <div class="project-post-image image_hover"><img src="images/our-projects/3.jpg" alt="Oil Plant Project" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
+            <div class="img-holder"><a href="images/our-projects/ECO-Intimates-Mondol-Group-WTP-Setup.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
+                <div class="project-post-image image_hover"><img src="images/our-projects/ECO-Intimates-Mondol-Group-WTP-Setup.jpg" alt="Mondol Group WTP Setup" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
           </div>
           <div class="item">
-            <div class="img-holder"><a href="images/our-projects/4.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
-                <div class="project-post-image image_hover"><img src="images/our-projects/4.jpg" alt="Oil Plant Project" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
+            <div class="img-holder"><a href="images/our-projects/imagesour-projectsDPE-Pipe-line-Under-Swarupkathi-Municipal-Water.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
+                <div class="project-post-image image_hover"><img src="images/our-projects/imagesour-projectsDPE-Pipe-line-Under-Swarupkathi-Municipal-Water.jpg" alt="DPE Pipe line Under Swarupkathi Municipal Water" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
           </div>
           <div class="item">
-            <div class="img-holder"><a href="images/our-projects/5.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
-                <div class="project-post-image image_hover"><img src="images/our-projects/5.jpg" alt="Oil Plant Project" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
+            <div class="img-holder"><a href="images/our-projects/images/our-projects/Master-Plan-Water-Supply.jpg" class="tt-gallery-1 lightbox"><span class="tt-gallery-1-overlay"></span>
+                <div class="project-post-image image_hover"><img src="images/our-projects/Master-Plan-Water-Supply.jpg" alt="Master Plan Water Supply" class="zoom_img_effect"><span class="tt-gallery-1-caption"><span class="tt-gallery-1-caption-table"><span class="tt-gallery-1-caption-inner"><span class="tt-gallery-1-search"><i class="fa fa-search"></i></span></span></span></span></div></a></div>
           </div>
         </div>
       </div>
