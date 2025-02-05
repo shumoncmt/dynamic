@@ -4931,34 +4931,43 @@ blockquote footer a {
 .req-button {
     position: relative;
     float: right;
-    margin-left: 1em;
+    margin-left: 1em; 
 }
 .req-button a {
-    background: #ffba00;
+    background: #145245;
     color: #fff;
     font: 600 1.08em/1em 'Roboto', sans-serif;
     display: inline-block;
     padding: 1em 1.52em;
-    border-radius: 4px;
-    border: 1px solid #ffba00;
+    /* border-radius: 8px; */
     margin: 0;
 }
-.req-button a:hover {
-    border-radius: 4px;
+/* .req-button a:hover {
+   
+    background: #125143; 
     color: #fff;
-    border: 1px solid #125143;
-    background: #125143;
-}
-.req-button .submit:before {
-    background: #53cff5;
-}
-.req-button .submit:hover {
-    color: #125143;
-}
-.req-button .submit:focus {
+    font: 600 1.08em/1em 'Roboto', sans-serif;
+    display: inline-block;
+    padding: 1em 1.52em;
+    border-radius: 8px;
+    border: 1px solid #145245;
+    margin: 0;
+    border: 1px solid #145245;
+    
+} */
+/* .req-button .submit:before {
+    background: #125143; 
+
+
+} */
+/* .req-button .submit:hover {
+    color: #125143; 
+} */
+ /* .req-button .submit:focus {
     color: #fff;
-    border-color: #145245;
-}
+    border-color: #125143; 
+   
+}  */
 .top-two-right {
     position: relative;
     overflow: hidden;
@@ -4969,7 +4978,7 @@ blockquote footer a {
     width: 65%;
 }
 .nav-home-three {
-    background: #0f263a;
+    background: #145245;
     position: relative;
 }
 .nav-home-three .col-md-3, .nav-home-two .col-md-3
@@ -4990,7 +4999,9 @@ blockquote footer a {
 /*         Home  Navigation    */
 
 .nav-t-holder {
-    position: relative;
+   
+     position: relative; 
+
 }
 .nav-t-holder .nav-header {
     display: none;
@@ -5015,7 +5026,7 @@ blockquote footer a {
 .nav-t-holder .nav-t-footer ul.nav > li:hover a,
 .nav-t-holder .nav-t-footer ul.nav > li.active a {
     color: #fab90a;
-    background-color: transparent;
+     background-color: transparent; 
 }
 .nav-t-holder .nav-t-footer ul.nav > li:last-child > a {
     border: none;
@@ -5245,10 +5256,10 @@ blockquote footer a {
     z-index: 0;
     background: #081e2f;
 }
-.widget-t-inner {
+/* .widget-t-inner {
     border: 1px solid #1a2e40;
     width: 245px;
-}
+} */
 .widget-t .search-form .form-control + .input-group-addon {
     padding: 0;
     border: 0;
@@ -6053,6 +6064,7 @@ blockquote footer a {
     position: relative;
     overflow: hidden;
     padding: 3em 0;
+    opacity: 0.9;
     background-size: cover;
 }
 .our-sol-wrapper p {
@@ -6175,8 +6187,8 @@ blockquote footer a {
 .get-t-touch .submit-n-now button:hover {
     border-radius: 4px;
     color: #fff;
-    border: 1px solid #53cff5;
-    background: #53cff5;
+    border: 1px solid #145245;
+    background: #145245;
 }
 .get-t-touch .submit-n-now button i {
     margin-left: 14px;
@@ -6217,7 +6229,7 @@ blockquote footer a {
     background: #091723;
 }
 .footer-t-bottom {
-    background: #06121c;
+    background: #155145;
 }
 .logo-wrapper {
     text-align: left;
@@ -6372,7 +6384,8 @@ blockquote footer a {
 ============================== */
 
 .indurial-t-solution3 {
-    background: url(../images/solution/solution-bg.jpg) center center no-repeat fixed;
+    /* background: url(../images/solution/solution-bg.jpg) center center no-repeat fixed; */
+    background-color: #145245;
     background-size: cover;
     padding: 29px 0;
     min-height: 100px;

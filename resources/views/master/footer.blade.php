@@ -1,3 +1,4 @@
+
 <footer class="sec-padding footer-bg footer-bg3">
       <div class="container clearfix">
         <div class="row">
@@ -68,8 +69,16 @@
         </div>
       </div>
     </section>
+    <!-- Back to top button start -->
+
+    <button id="scrollToTopBtn"><i class="fas fa-arrow-up"></i> </button>
+
+  <!-- Back to top button end -->
     <script src="js/jquery-1.12.2.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/scroll.js"></script>
+  
     <!-- Revolution Slider Tools-->
     <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <!-- Revolution Slider-->

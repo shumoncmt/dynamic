@@ -403,7 +403,7 @@
     <!-- product solutions-->
     <section class="our-sol-wrapper clearfix">
       <div class="container clearfix">
-        <p>We provide innovative <span>product solutions</span> for sustainable progress. Our professional team works to increase productivity and cost effectiveness on the market.</p>
+        <p style="font-weight: 900;"  >We provide innovative product solutions for sustainable progress. Our professional team works to increase productivity and cost effectiveness on the market.</p>
       </div>
     </section>
     <!-- our clients & Get in touch-->
