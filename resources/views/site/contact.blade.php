@@ -1,5 +1,10 @@
 @include ('master/header')
 
+<title>Contact- Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
+<meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
+<meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+
+
 <section class="inner-banner2 clearfix">
       <div class="container clearfix">
         <h2>Contact Us</h2>

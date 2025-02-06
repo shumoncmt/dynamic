@@ -1,4 +1,7 @@
 @include ('master/header')
+<title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
+<meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
+<meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
 
 
   <!-- =========home banner start============-->
@@ -60,44 +63,44 @@
         </div>
         <div class="row">
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/ser-img1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
+            <div class="item"><a href="agricultural.html" class="post-image view image_hover">			<img src="images/services/Dynamic-Motor.png" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Dynamic Motor</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
               <h6><a href="mechanical.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="agricultural.html" class="post-image view image_hover"><img src="images/services/ser-img2.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
+            <div class="item"><a href="agricultural.html" class="post-image view image_hover"><img src="images/services/Dynamic-Ro-membrane.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="agricultural.html">
                 <h4>Dynamic RO Membrane</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
               <h6><a href="agricultural.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="oil.html" class="post-image view image_hover">		<img src="images/services/ser-img3.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
+            <div class="item"><a href="oil.html" class="post-image view image_hover">		<img src="images/services/Dynamic-pump.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="oil.html">
                 <h4>Dynamic Pump</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
               <h6><a href="oil.html">Read more</a></h6>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/ser-img4.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
+            <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/Dynamic-Blower.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
                 <h4>Dynamic Blower</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>Roots blowers operate by trapping a fixed amount of fluid or gas and expelling it against the system's pressure.</p>
               <h6><a href="power.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="chemical.html" class="post-image view image_hover"><img src="images/services/ser-img5.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="chemical.html">
+            <div class="item"><a href="chemical.html" class="post-image view image_hover"><img src="images/services/FRP-Vessel.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="chemical.html">
                 <h4>Dynamic Vessel</h4></a>
-              <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
+              <p>FRP is an updated composite material used for chemical plant appliances and equipment, including vessels and tanks.</p>
               <h6><a href="chemical.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="meterial.html" class="post-image view image_hover"><img src="images/services/ser-img6.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="meterial.html">
+            <div class="item"><a href="meterial.html" class="post-image view image_hover"><img src="images/services/dynamic-electromagnetic-flow-meter.png" alt="" class="img-responsive zoom_img_effect"></a><a href="meterial.html">
                 <h4>Dynamic Flow Meter</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="meterial.html">Read more</a></h6>
@@ -106,21 +109,21 @@
         </div>
         <div class="row">
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/ser-img4.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
-                <h4>Dynamic Ro Antiscalant</h4></a>
+            <div class="item"><a href="power.html" class="post-image view image_hover"><img src="images/services/Ro-Plant-Antiscalant-Chemical.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="power.html">
+                <h4>Dynamic RO Chemicals</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="power.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="chemical.html" class="post-image view image_hover"><img src="images/services/ser-img5.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="chemical.html">
+            <div class="item"><a href="chemical.html" class="post-image view image_hover"><img src="images/services/Ro-Plant-Antiscalant-Chemical.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="chemical.html">
                 <h4>Water Treatment Chemical & Media</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="chemical.html">Read more</a></h6>
             </div>
           </div>
           <div class="col-sm-4 service-info">
-            <div class="item"><a href="meterial.html" class="post-image view image_hover"><img src="images/services/ser-img6.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="meterial.html">
+            <div class="item"><a href="meterial.html" class="post-image view image_hover"><img src="images/services/Ro-Plant-Antiscalant-Chemical.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href="meterial.html">
                 <h4>WTP Accessories</h4></a>
               <p>Neque porro quisquam est, qui dolorem ipsum quira dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi.</p>
               <h6><a href="meterial.html">Read more</a></h6>
@@ -169,7 +172,7 @@
     <!-- Control in compliance-->
     <!-- Our Services natural resource-->
     <section class="fluid-service-area-home">
-      <div class="work-image-ser"><img src="images/services/ser-img-left.jpg" alt=""></div>
+      <div class="work-image-ser"><img src="images/services/Photo-Profile-1.jpg" alt=""></div>
       <div class="service-promo">
         <div class="service-t-content">
           <div class="test-quote-sec"><img src="images/testimonial/quote-n.png" alt=""></div>
@@ -411,9 +414,9 @@
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 our-t-client">
           <div class="section_header2 common">
-            <h2>our clients</h2>
+            <h2>Our Clients</h2>
           </div>
-          <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam eius modi.</p>
+          <p>Please let us know if you have any questions, feedback, or general inquiries. We sincerely value your feedback. Our company believes that excellent customer service begins with open communication.</p>
           <ul>
             <li><img src="images/clients/Arbab-Group.png" alt="" class="img-responsive"></li>
             <li><img src="images/clients/beacon-pharmaceuticals.jpg" alt="" class="img-responsive"></li>

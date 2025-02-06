@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- reponsive meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dynamic Industrial Product</title>
     <!-- Bootstrap-->
     <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
 
