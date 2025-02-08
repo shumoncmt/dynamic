@@ -5,6 +5,7 @@ use App\Http\Controllers\SiteController;
 use Illuminate\Support\Facades\Route;
 
 
+
 // Route::get('/', function () {
 //     return view('welcome');
 // });
@@ -20,6 +21,18 @@ use Illuminate\Support\Facades\Route;
 // });
 
 // require __DIR__.'/auth.php';
+
+//Management Team start
+
+
+Route::get('/chairmans', [SiteController::class, 'chairmans'])->name('chairmans');
+Route::get('/managing-directors', [SiteController::class, 'managingdirectors'])->name('managingdirectors');
+Route::get('/directors', [SiteController::class, 'directors'])->name('directors');
+
+
+
+
+//Management team end
 
 
 //Product Route start

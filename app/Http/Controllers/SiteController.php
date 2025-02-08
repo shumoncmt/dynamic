@@ -7,6 +7,19 @@ use Illuminate\Http\Request;
 class SiteController extends Controller
 {
 
+//Management Team start
+    function chairmans(){
+        return view('management.chairmans');
+    }
+    function managingdirectors(){
+        return view('management.managing-directors');
+    }
+    function directors(){
+        return view('management.directors');
+    }
+
+//Management Team End
+
     //Page start
 
     function about(){
