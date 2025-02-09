@@ -1,7 +1,5 @@
 @include ('master.header')
 
-
-
 <section class="inner-banner2 clearfix">
       <div class="container clearfix">
         <h2>Projects</h2>
@@ -16,92 +14,67 @@
       </div>
     </section>
     <!-- Project  Page-->
-    <section class="core-projects sectpad">
+    <section class="team-wrapper team-wrapper4 clearfix">
       <div class="container clearfix">
-        <h1>Our company experts</h1>
-        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</p>
-      </div>
-    </section>
-    <!-- Projects-->
-    <section class="project-post-area sectpad">
-      <div class="container clearfix">
-        <div class="project-post">
-          <div class="row">
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img4.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
-              </div>
-            </div>
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img5.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
-              </div>
-            </div>
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img6.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
-              </div>
-            </div>
+        <div class="our-team-page">
+          <div class="section_header2">
+            <h2>Our Projects</h2>
+            <div class="decor-line"></div>
           </div>
-        </div>
-        <div class="project-post">
-          <div class="row">
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img7.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
+          <div class="row event-pad">
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-1.jpg" alt="">
+                <div class="caption">
+                  <h2>mechanical engineering</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
               </div>
             </div>
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img8.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-2.jpg" alt="">
+                <div class="caption">
+                  <h2>Agricultural Processing</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
               </div>
             </div>
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img9.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-3.jpg" alt="">
+                <div class="caption">
+                  <h2>Oils and Lubricants</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-        <div class="project-post">
-          <div class="row">
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img10.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-4.jpg" alt="">
+                <div class="caption">
+                  <h2>power and engery</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
               </div>
             </div>
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img11.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-5.jpg" alt="">
+                <div class="caption">
+                  <h2>chemical research</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
               </div>
             </div>
-            <div class="col-sm-4 project-post-info">
-              <div class="project-post-image"><a href="projects-details.html"><img src="images/projects/pro-img12.jpg" alt=""></a><a href="projects-details.html" class="four_arrow_hover_box"><span class="arrows"><span></span></span></a></div>
-              <div class="info-text"><a href="projects-details.html">
-                  <h4>Oil Plant Project</h4></a>
-                <p>Oil & Lubricant</p>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-6.jpg" alt="">
+                <div class="caption">
+                  <h2>Meterial engineering</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
+
     <!-- Indurial Solution-->
     <section class="indurial-t-solution indurial-solution indpad anim-5-all indurial-t-solution3">
       <div class="container clearfix">

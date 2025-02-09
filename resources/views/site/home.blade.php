@@ -5,8 +5,54 @@
 
 
   <!-- =========home banner start============-->
-  <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">
+  <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_3_slider">
       <!-- Wrapper for slides-->
+      <div role="listbox" class="carousel-inner">
+        <div style="background-image: url(images/slider/slider-image.jpg);" class="item ">
+          <div class="carousel-caption">
+            <div class="thm-container txt-left">
+              <div class="box valign-top">
+                <div class="content cnt_wdt1">
+                  <h2 data-animation="animated fadeInUp" class="bnrfnt50">We Provide Quality Service in area</h2>
+                 <a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div style="background-image: url(images/slider/slider-image.jpg);" class="item ">
+          <div class="carousel-caption">
+            <div class="thm-container txt-left">
+              <div class="box valign-top">
+                <div class="content cnt_wdt1">
+                  <h2 data-animation="animated fadeInUp" class="bnrfnt50">We Provide Quality Service in area</h2>
+                <a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="background-image: url(images/slider/slider-image.jpg);" class="item active">
+          <div class="carousel-caption">
+            <div class="thm-container">
+              <div class="box valign-bottom">
+                <div class="content text-center">
+                  <h2 data-animation="animated fadeInUp" class="bnrfnt50">Certified manufacture company</h2>
+                  <p data-animation="animated fadeInDown" class="pln_he">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Controls--><a href="#minimal-bootstrap-carousel" role="button" data-slide="prev" class="left carousel-control"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a href="#minimal-bootstrap-carousel" role="button" data-slide="next" class="right carousel-control"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a>
+  </div>
+
+
+      <!-- Wrapper for slides-->
+  <!-- <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">
+
       <div role="listbox" class="carousel-inner">
         <div style="background-image: url(images/slider/homepage/All-Stuff-Image.jpg);" class="item active">
           <div class="carousel-caption">
@@ -45,8 +91,10 @@
           </div>
         </div>
       </div>
-      <!-- Controls--><a href="#minimal-bootstrap-carousel" role="button" data-slide="prev" class="left carousel-control"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a href="#minimal-bootstrap-carousel" role="button" data-slide="next" class="right carousel-control"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a>
-    </div>
+      
+     <a href="#minimal-bootstrap-carousel" role="button" data-slide="prev" class="left carousel-control"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a href="#minimal-bootstrap-carousel" role="button" data-slide="next" class="right carousel-control"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a>
+    </div> -->
+     <!-- Controls-->
     <!-- =========home banner end============-->
     <!-- We offer Different Services-->
     <section class="diff-offer-wrapper">
@@ -240,24 +288,6 @@
         </div>
       </div>
     </section>
-    <!-- Our Services natural resource-->
-    <!-- LOOKING AN ADEQUATE-->
-    <!-- <section class="looking-wrapper clearfix">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
-            <div class="indurial-solution-text2">
-              <h2>LOOKING AN ADEQUATE SOLUTION FOR YOUR COMPANY?</h2>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-right">
-            <div class="req-button text-right"><a href="contact.html" class="submit">Contact Us <i class="fa fa-arrow-right"></i></a></div>
-          </div>
-        </div>
-      </div>
-    </section> -->
-    <!-- LOOKING AN ADEQUATE-->
-    <!-- Latest News-->
     <section class="latest-news1 sectpad">
       <div class="container clearfix">
         <div class="row">
@@ -327,8 +357,70 @@
         </div>
       </div>
     </section>
+
     <!-- Our Projects-->
-    <section class="our-galler-htwo clearfix sectpad">
+    <section class="team-wrapper team-wrapper4 clearfix">
+      <div class="container clearfix">
+        <div class="our-team-page">
+          <div class="section_header2">
+            <h2>Our Projects</h2>
+            <div class="decor-line"></div>
+          </div>
+          <div class="row event-pad">
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-1.jpg" alt="">
+                <div class="caption">
+                  <h2>mechanical engineering</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-2.jpg" alt="">
+                <div class="caption">
+                  <h2>Agricultural Processing</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-3.jpg" alt="">
+                <div class="caption">
+                  <h2>Oils and Lubricants</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-4.jpg" alt="">
+                <div class="caption">
+                  <h2>power and engery</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-5.jpg" alt="">
+                <div class="caption">
+                  <h2>chemical research</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 team">
+              <div class="box-img"><img src="images/team/4-6.jpg" alt="">
+                <div class="caption">
+                  <h2>Meterial engineering</h2>
+                  <p>Tdolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit. Red quia numquam.</p><a href="#">Read more</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- <section class="our-galler-htwo clearfix sectpad">
       <div class="container clearfix">
         <div class="section_header3 section_header2 common">
           <h2>Our Projects</h2>
@@ -358,9 +450,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- Lattest news-->
-    <div class="container clearfix sectpad-sec">
+    <!-- <div class="container clearfix sectpad-sec">
       <div class="section_header2 common">
         <h2>Latest news</h2>
       </div>
@@ -402,7 +494,8 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>  -->
+
     <!-- product solutions-->
     <section class="our-sol-wrapper clearfix">
       <div class="container clearfix">
@@ -483,6 +576,8 @@
         </div>
       </div>
     </section>
+
+
 
 
 

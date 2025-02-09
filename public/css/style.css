@@ -6616,10 +6616,11 @@ blockquote footer a {
     vertical-align: top;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-top .content {
-    padding-top: 132px;
+    padding-top: 450px;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-bottom .content {
-    padding-bottom: 132px;
+    /* padding-bottom: 132px; */
+    padding-top: 300px;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-bottom {
     vertical-align: bottom;
@@ -6671,20 +6672,20 @@ blockquote footer a {
 }
 /*=======home banner_variation2 style start=======*/
 
-h1.bnrfnt50 {
-    font-size: 50px;
+h2.bnrfnt50 {
+    font-size:25px;
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-weight: 800;
+    font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 1.3px!important;
-    margin-bottom: 20px;
+    letter-spacing: 1px!important;
+    margin-bottom: 10px;
 }
-h1.bnrfnt40 {
-    font-size: 40px;
+h2.bnrfnt40 {
+    font-size: 20px;
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-weight: 800;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1.3px!important;
     margin-bottom: 20px;
@@ -6712,7 +6713,8 @@ h1.bnrfnt50 span.color3 {
     text-align: left;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box .content.cnt_wdt1 {
-    width: 60%;
+    text-align: center;
+    width: 100%;
 }
 #minimal-bootstrap-carousel .carousel-caption p.pln_he {
     line-height: 30px;

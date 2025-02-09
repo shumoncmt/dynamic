@@ -42,7 +42,7 @@
         </div>
       </div>
       <!-- Controls--><a href="#minimal-bootstrap-carousel" role="button" data-slide="prev" class="left carousel-control"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a href="#minimal-bootstrap-carousel" role="button" data-slide="next" class="right carousel-control"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a>
-    </div>
+  </div>
     <!-- =========home banner end============-->
     <!-- LOOKING AN ADEQUATE-->
     <section class="looking-wrapper clearfix looking-wrapper3">
