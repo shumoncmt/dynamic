@@ -388,8 +388,8 @@ body {
 .media-body p {
     text-align: left;
     color: #232932;
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
     font: 400 1.072em/0.8em "Open Sans", sans-serif;
 }
 .media-body p span {
@@ -4975,7 +4975,7 @@ blockquote footer a {
 }
 .top-two-right .top-panel {
     float: right;
-    width: 65%;
+    width: 70%;
 }
 .nav-home-three {
     background: #145245;
@@ -5722,6 +5722,7 @@ blockquote footer a {
     color: #fff;
     border-radius: 4px;
     font: 600 1.03em/1.3em 'Raleway', sans-serif;
+    /* padding-left: 30px; */
     padding: 0.8em 2.5em;
 }
 .looking-wrapper .req-button a i {
@@ -6230,6 +6231,7 @@ blockquote footer a {
 }
 .footer-t-bottom {
     background: #155145;
+    height: px;
 }
 .logo-wrapper {
     text-align: left;
@@ -6345,7 +6347,7 @@ blockquote footer a {
     padding: 0 50px;
 }
 .footer-bottom3 {
-    padding: 33px 0;
+    padding: 18px 0;
 }
 .footer-bottom3 .fo-txt p {
     margin: 0;
