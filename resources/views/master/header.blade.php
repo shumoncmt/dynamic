@@ -73,9 +73,10 @@
       <!-- Logo Section-->
       <div class="container">
         <div class="row pad-logo logo-wrapper">
-          <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 t-logo"><a href={{Route('home')}}><img src="{{ asset('images/header/logo-2.png') }}" alt="logo" class="img-responsive"></a></div>
+          <!-- <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href={{Route('home')}}><img src="images/header/logo-2.png" alt="logo" class="img-responsive"></a></div> -->
+          <div class="col-lg-4 col-md-3 col-sm-12 col-xs-12 t-logo"><a href={{Route('home')}}><img src="{{ asset('images/header/logo-2.png') }}" alt="logo" class="img-responsive"></a></div>
 
-          <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 text-right">
+          <div class="col-lg-8 col-md-9 col-sm-12 col-xs-12 text-right">
             <div class="top-two-right">
               <div class="req-button text-right"><a href="request-qoute.html" class="submit">requet a quote</a></div>
               <div class="top-panel">
@@ -83,15 +84,15 @@
                   <ul class="nav">
                     <li class="item item-phone">
                       <div class="media">
-                        <div class="blue-color media-left"><a href="#"></a></div>
+                        <div class="blue-color media-left"><a href="#"><i class="icon icon-Phone2"></i></a></div>
                         <div class="media-body">
-                          <p>+880 1933-302535<br><span><a href="mailto:karim@greengenesisbd.com"> karim@greengenesisbd.com  </a></span></p>
+                          <p>+880 1933-302535<br><span><a href="mailto:karim@greengenesisbd.com">karim@greengenesisbd.com</a></span></p>
                         </div>
                       </div>
                     </li>
                     <li class="item item-ad">
                       <div class="media">
-                        <div class="blue-color media-left"><a href="#"></a></div>
+                        <div class="blue-color media-left"><a href="#"><i class="icon icon-Pointer"></i></a></div>
                         <div class="media-body">
                           <p>House B/113, Mosque Road,<br><span>Mohakhali DOHS, Dhaka</span></p>
                         </div>
@@ -120,9 +121,15 @@
                   <div class="nav-t-footer">
                     <ul class="nav">
                       <li class="has-t-submenu"><a href={{Route('home')}}>Home</a>
+                        <!-- <ul class="submenu">
+                          <li><a href={{Route('home2')}}>Home Two</a></li>
+                          <li><a href={{Route('home3')}}>Home Three</a></li>
+                          <li><a href={{Route('home4')}}>Home Four</a></li>
+                          <li><a href={{Route('home5')}}>Home Five</a></li>
+                        </ul> -->
                       </li>
-                      <li class="has-t-submenu"><a href={{Route('about')}}>about us</a>
-                      <ul class="submenu">
+                      <li class="has-t-submenu"><a href={{Route('about')}} target="_blank">about us</a>
+                        <ul class="submenu">
                           <li><a href={{Route('team')}} target="_blank" >Our Team</a></li>
                           <li><a href={{Route('testimonials')}} target="_blank">Testimonials</a></li>
                           <li><a href={{Route('faq')}} target="_blank">Faq</a></li>

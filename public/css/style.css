@@ -331,8 +331,7 @@ body {
     background-size: cover;
 }
 .wel-band-bg p {
-    font-size: 17px "Open Sans", sans-serif;
-    /* font: 400 1.1em/1em ; */
+    font: 400 1.1em/1em "Open Sans", sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -354,11 +353,10 @@ body {
 }
 .t-logo {
     text-align: left;
-    /* padding-top: 20px; */
-    
+    padding-bottom: 0em;
 }
 .logo-sec img {
-    display: inline-block;item-phone
+    display: inline-block;
 }
 .touch_top {
     float: left;
@@ -390,8 +388,8 @@ body {
 .media-body p {
     text-align: left;
     color: #232932;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
     font: 400 1.072em/0.8em "Open Sans", sans-serif;
 }
 .media-body p span {
@@ -4973,11 +4971,11 @@ blockquote footer a {
 .top-two-right {
     position: relative;
     overflow: hidden;
-    padding: 3px;
+    padding: 3.5px 0;
 }
 .top-two-right .top-panel {
     float: right;
-    width: 70%;
+    width: 65%;
 }
 .nav-home-three {
     background: #145245;
@@ -4991,12 +4989,12 @@ blockquote footer a {
     background: transparent;
 }
 .pad-logo {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 1.8em;
+    padding-bottom: 1.83em;
 }
 .touch_top_pad {
-    padding: 5px;
-   
+    padding-top: 0.7em;
+    padding-bottom: 0;
 }
 /*         Home  Navigation    */
 
@@ -5724,7 +5722,6 @@ blockquote footer a {
     color: #fff;
     border-radius: 4px;
     font: 600 1.03em/1.3em 'Raleway', sans-serif;
-    /* padding-left: 30px; */
     padding: 0.8em 2.5em;
 }
 .looking-wrapper .req-button a i {
@@ -6233,12 +6230,10 @@ blockquote footer a {
 }
 .footer-t-bottom {
     background: #155145;
-    height: px;
 }
 .logo-wrapper {
     text-align: left;
-    min-height: 70px;
-    padding: 20px;
+    min-height: 106px;
 }
 .logo-wrapper img {
     display: inline-block;
@@ -6350,7 +6345,7 @@ blockquote footer a {
     padding: 0 50px;
 }
 .footer-bottom3 {
-    padding: 18px 0;
+    padding: 33px 0;
 }
 .footer-bottom3 .fo-txt p {
     margin: 0;
@@ -6619,11 +6614,10 @@ blockquote footer a {
     vertical-align: top;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-top .content {
-    padding-top: 450px;
+    padding-top: 132px;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-bottom .content {
-    /* padding-bottom: 132px; */
-    padding-top: 300px;
+    padding-bottom: 132px;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box.valign-bottom {
     vertical-align: bottom;
@@ -6675,20 +6669,20 @@ blockquote footer a {
 }
 /*=======home banner_variation2 style start=======*/
 
-h2.bnrfnt50 {
-    font-size:25px;
+h1.bnrfnt50 {
+    font-size: 50px;
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-weight: bold;
+    font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 1px!important;
-    margin-bottom: 10px;
+    letter-spacing: 1.3px!important;
+    margin-bottom: 20px;
 }
-h2.bnrfnt40 {
-    font-size: 20px;
+h1.bnrfnt40 {
+    font-size: 40px;
     font-family: 'Raleway', sans-serif;
     color: #fff;
-    font-weight: bold;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 1.3px!important;
     margin-bottom: 20px;
@@ -6716,8 +6710,7 @@ h1.bnrfnt50 span.color3 {
     text-align: left;
 }
 #minimal-bootstrap-carousel .carousel-caption .thm-container .box .content.cnt_wdt1 {
-    text-align: center;
-    width: 100%;
+    width: 60%;
 }
 #minimal-bootstrap-carousel .carousel-caption p.pln_he {
     line-height: 30px;
