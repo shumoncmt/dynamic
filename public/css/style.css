@@ -331,7 +331,8 @@ body {
     background-size: cover;
 }
 .wel-band-bg p {
-    font: 400 1.1em/1em "Open Sans", sans-serif;
+    font-size: 17px "Open Sans", sans-serif;
+    /* font: 400 1.1em/1em ; */
     margin: 0;
     padding: 0;
 }
@@ -353,10 +354,11 @@ body {
 }
 .t-logo {
     text-align: left;
-    padding-bottom: 0em;
+    /* padding-top: 20px; */
+    
 }
 .logo-sec img {
-    display: inline-block;
+    display: inline-block;item-phone
 }
 .touch_top {
     float: left;
@@ -4971,7 +4973,7 @@ blockquote footer a {
 .top-two-right {
     position: relative;
     overflow: hidden;
-    padding: 3.5px 0;
+    padding: 3px;
 }
 .top-two-right .top-panel {
     float: right;
@@ -4989,12 +4991,12 @@ blockquote footer a {
     background: transparent;
 }
 .pad-logo {
-    padding-top: 1.8em;
-    padding-bottom: 1.83em;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .touch_top_pad {
-    padding-top: 0.7em;
-    padding-bottom: 0;
+    padding: 5px;
+   
 }
 /*         Home  Navigation    */
 
@@ -6235,7 +6237,8 @@ blockquote footer a {
 }
 .logo-wrapper {
     text-align: left;
-    min-height: 106px;
+    min-height: 70px;
+    padding: 20px;
 }
 .logo-wrapper img {
     display: inline-block;

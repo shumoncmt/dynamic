@@ -28,6 +28,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/chairmans', [SiteController::class, 'chairmans'])->name('chairmans');
 Route::get('/managing-directors', [SiteController::class, 'managingdirectors'])->name('managingdirectors');
 Route::get('/directors', [SiteController::class, 'directors'])->name('directors');
+Route::get('/homeslider', [SiteController::class, 'homeslider'])->name('homeslider');
 
 
 

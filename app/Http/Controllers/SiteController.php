@@ -18,6 +18,9 @@ class SiteController extends Controller
         return view('management.directors');
     }
 
+    function homeslider(){
+        return view('slider.homeslider');
+    }
 //Management Team End
 
     //Page start

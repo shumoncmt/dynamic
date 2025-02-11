@@ -3,100 +3,33 @@
 <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
 <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
 
-
   <!-- =========home banner start============-->
-  <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_3_slider">
-      <!-- Wrapper for slides-->
-      <div role="listbox" class="carousel-inner">
-        <div style="background-image: url(images/slider/slider-image.jpg);" class="item ">
-          <div class="carousel-caption">
-            <div class="thm-container txt-left">
-              <div class="box valign-top">
-                <div class="content cnt_wdt1">
-                  <h2 data-animation="animated fadeInUp" class="bnrfnt50">We Provide Quality Service in area</h2>
-                 <a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div style="background-image: url(images/slider/slider-image.jpg);" class="item ">
-          <div class="carousel-caption">
-            <div class="thm-container txt-left">
-              <div class="box valign-top">
-                <div class="content cnt_wdt1">
-                  <h2 data-animation="animated fadeInUp" class="bnrfnt50">We Provide Quality Service in area</h2>
-                <a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div style="background-image: url(images/slider/slider-image.jpg);" class="item active">
-          <div class="carousel-caption">
-            <div class="thm-container">
-              <div class="box valign-bottom">
-                <div class="content text-center">
-                  <h2 data-animation="animated fadeInUp" class="bnrfnt50">Certified manufacture company</h2>
-                  <p data-animation="animated fadeInDown" class="pln_he">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Controls--><a href="#minimal-bootstrap-carousel" role="button" data-slide="prev" class="left carousel-control"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a href="#minimal-bootstrap-carousel" role="button" data-slide="next" class="right carousel-control"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a>
+
+  <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-bs-interval="1500">
+      <img src="images/slider/slider-image.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item" data-bs-interval="1500">
+      <img src="images/slider/slider-image.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="images/slider/slider-image.jpg" class="d-block w-100" alt="...">
+    </div>
   </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
-
-      <!-- Wrapper for slides-->
-  <!-- <div id="minimal-bootstrap-carousel" data-ride="carousel" class="carousel slide carousel-fade shop-slider full_width ver_new_1_slider">
-
-      <div role="listbox" class="carousel-inner">
-        <div style="background-image: url(images/slider/homepage/All-Stuff-Image.jpg);" class="item active">
-          <div class="carousel-caption">
-            <div class="thm-container">
-              <div class="box valign-top">
-                <div class="content text-left pull-right">
-                  <h1 data-animation="animated fadeInLeft" class="bnrfnt40">Leader in Power and<br>Automotion Technologies</h1>
-                  <p data-animation="animated fadeInRight" class="pln_he">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut <br>enim ad minim.</p><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">learn more</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div style="background-image: url(images/slider/homepage/Group-Photo.jpg);" class="item">
-          <div class="carousel-caption">
-            <div class="thm-container">
-              <div class="box valign-top">
-                <div class="content text-left pull-right">
-                  <h1 data-animation="animated fadeInLeft" class="bnrfnt40">Oil and lubricant<br>for your daily need</h1>
-                  <p data-animation="animated fadeInRight" class="pln_he">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut <br>enim ad minim.</p><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">learn more</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div style="background-image: url(images/slider/homepage/Photo-Profile-1.jpg);" class="item">
-          <div class="carousel-caption">
-            <div class="thm-container">
-              <div class="box valign-top">
-                <div class="content text-left pull-right">
-                  <h1 data-animation="animated fadeInUp" class="bnrfnt40">We are the Largest Independent<br>manufacturer Company</h1>
-                  <p data-animation="animated fadeInDown" class="pln_he">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut <br>enim ad minim.</p><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn btn0">learn more</a><a data-animation="animated fadeInUp" href="about_us.html" class="view-all hvr-bounce-to-right slide_learn_btn btn">our sevices</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-     <a href="#minimal-bootstrap-carousel" role="button" data-slide="prev" class="left carousel-control"><i class="fa fa-angle-left"></i><span class="sr-only">Previous</span></a><a href="#minimal-bootstrap-carousel" role="button" data-slide="next" class="right carousel-control"><i class="fa fa-angle-right"></i><span class="sr-only">Next</span></a>
-    </div> -->
-     <!-- Controls-->
     <!-- =========home banner end============-->
-    <!-- We offer Different Services-->
+
     <section class="diff-offer-wrapper">
       <div class="container">
         <div class="row diff-offer">
