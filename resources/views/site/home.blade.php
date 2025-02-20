@@ -133,6 +133,7 @@
       </div>
     </section>
     <!-- We offer Different Services-->
+     
     <!-- Control in compliance-->
     <!-- <section class="container ind-common-pad2 clearfix">
       <div class="quality-wrapper text-center">
@@ -171,7 +172,7 @@
     </section> -->
     <!-- Control in compliance-->
     <!-- Our Services natural resource-->
-    <section class="fluid-service-area-home">
+  <section class="fluid-service-area-home">
       <div class="work-image-ser"><img src="images/services/Photo-Profile-1.jpg" alt=""></div>
       <div class="service-promo">
         <div class="service-t-content">
